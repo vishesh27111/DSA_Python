@@ -13,8 +13,6 @@ def partition(array, low, high):
 
 
 class QuickSort:
-    # def __init__(self, array):
-    #     self.array = array
 
     def quicksort(self, array, low=0, high=None):
         n = len(array)
